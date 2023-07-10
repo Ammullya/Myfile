@@ -59,6 +59,7 @@ LIKE
 LIMIT
 WHERE
 GROUP BY
+usha
 
 
 
